@@ -12,6 +12,13 @@ p {
   margin: 0;
 }
 
+.container{
+  position: relative;
+  width: 1320px;
+  height: auto;
+  display: flex;
+}
+
 /* NAVBAR */
 
 .navbar_frame {
@@ -25,6 +32,7 @@ p {
 
   background-color: rgb(68, 50, 151);
 }
+
 
 .navbar_frame .container {
   padding: 20px 0 14px;
