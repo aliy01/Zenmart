@@ -62,7 +62,7 @@
   justify-content: space-between;
 }
 
-.container .pagionation_main img{
+.container .pagionation_main img {
   cursor: pointer;
 }
 
@@ -570,4 +570,22 @@
   font-weight: 400;
   line-height: 22px;
   letter-spacing: 0%;
+}
+
+.home_page .adv_frame {
+  margin-top: 90px;
+  width: 100%;
+  height: 120px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #e5edff;
+  color: rgba(0, 83, 246, 1);
+  font-family: "Jost";
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 26px;
 }
